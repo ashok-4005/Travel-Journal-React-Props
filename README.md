@@ -5,4 +5,6 @@ using React Props.
 
 Here, the data for the components stored are stored as an JavaScript array of objects in a separate JavaScript file and accessed them by destructuring the objects using the JavaScript Spread Operator (...).
 
-# #React #React Props
+# #React #ReactProps
+
+![](output2.png)
